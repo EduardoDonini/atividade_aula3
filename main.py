@@ -77,3 +77,5 @@ print(f"Moda: {resultado_empresa5[0][1]}")
 print(f"Média: {resultado_empresa5[0][2]}")
 print(f"Variância: {resultado_empresa5[0][3]}")
 print()
+
+# Escolheria a empresa 2 pelo fato da média do salário ser muito boa e o desvio padrão ser o menor.
